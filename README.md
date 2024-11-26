@@ -15,4 +15,4 @@
 - **Libraries**: Numpy, OpenCV, Matplotlib
 
 ## 📈 Stonks
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=catppuccin)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=catppuccin_mocha)
