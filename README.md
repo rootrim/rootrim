@@ -15,5 +15,5 @@
 
 ## 📈 Stonks
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=catppuccin)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootrim&theme=catppuccin)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootrim&theme=radical)
 ![Ziyaretçiler](https://komarev.com/ghpvc/?username=rootrim&color=blue)
