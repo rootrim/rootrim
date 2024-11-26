@@ -1,4 +1,5 @@
-# 👋 Hi, I am @rootrim !  
+# 👋 Hi, I am @rootrim !
+![Ziyaretçiler](https://komarev.com/ghpvc/?username=rootrim&color=blue)  
 
 ## 🤵 About me  
 - 👨‍🎓 I am a student in Sancaktepe Teknology Mediterrian Imam Hatip High School  
@@ -15,5 +16,3 @@
 
 ## 📈 Stonks
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=catppuccin)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rootrim&theme=radical)
-![Ziyaretçiler](https://komarev.com/ghpvc/?username=rootrim&color=blue)
