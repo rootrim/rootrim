@@ -1,4 +1,4 @@
-# 👋 Hi, I am rootrim !
+# 👋 Hi, I am rootrim!
 ![Ziyaretçiler](https://komarev.com/ghpvc/?username=rootrim&color=blue)  
 
 ## 🤵 About me  
