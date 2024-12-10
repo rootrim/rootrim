@@ -9,10 +9,20 @@
 - 🚹  My pronouns: He/him
 
 ## 👨‍💻 The Piece of Software Which I Use
+
 - **OS**: *Arch Linux* BTW
 - **Programing Languages**: Python, C, Lua
 - **Code Editor**: *Neovim* my beloved
 - **Libraries**: Numpy, OpenCV, Matplotlib
 
-## 📈 Stonks
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=catppuccin_mocha)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=arch,linux,git,github,neovim,python,c,lua,markdown,opencv" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootrim&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha" alt="rootrim" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&locale=en&theme=catppuccin_mocha" alt="rootrim" height="200" />
+</p>
