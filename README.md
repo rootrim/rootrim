@@ -23,6 +23,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootrim&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha" alt="rootrim" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&locale=en&theme=catppuccin_mocha" alt="rootrim" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootrim&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="rootrim" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&locale=en&theme=gruvbox" alt="rootrim" height="200" />
 </p>
