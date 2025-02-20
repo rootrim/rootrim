@@ -15,9 +15,9 @@
 - **Code Editor**: *Neovim* my beloved
 - **Libraries**: Numpy, OpenCV, Matplotlib
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=arch,linux,git,github,neovim,python,c,lua,markdown,opencv" />
+    <img align="center" src="https://skillicons.dev/icons?i=arch,linux,git,github,neovim,python,c,lua,rust,markdown,opencv" />
   </a>
 </p>
 
