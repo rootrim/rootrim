@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,linux,git,github,neovim,python,rust,C,markdown,opencv" />
+    <img src="https://skillicons.dev/icons?i=nix,linux,git,github,neovim,python,rust,c,markdown,opencv" />
   </a>
 </p>
 
