@@ -1,28 +1,51 @@
-# 👋 Hi, I am rootrim!
-![Ziyaretçiler](https://komarev.com/ghpvc/?username=rootrim&color=blue)  
+<h1 align="center"> Hi, I'm Muaz (aka Trim)! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7AB00&size=22&center=true&vCenter=true&lines=Developer;+Tech+Enthusiast;+UAV+Team+Member;+Linux+Lover+🚀" />
+</p>
 
-## 🤵 About me  
-- 👨‍🎓 I am a student in Sancaktepe Teknology Mediterrian Imam Hatip High School  
-- 🔭 I am working with *image processing* in our school's UAV team  
-- 🌱 I am just a junior dev for now and I am open to learn new things
-- ⚡ Fun Fact: I use Arch Linux BTW
-- 🚹  My pronouns: He/him
+---
 
-## 👨‍💻 The Piece of Software Which I Use
+## 🤵 About Me  
+- 👨‍🎓 **Student at Sancaktepe Teknology Anatolian Imam Hatip Highschool**  
+- 🔭 **Developer at our school's UAV team**  
+- 🤖 **Passionate about AI, Cybersecurity & Open Source**  
+- 🤫 **Trying to be cool & Always learning new things**  
+- ⚡ **Fun Fact:** I use **NixOS** ~~(Arch Linux BTW)~~  
+- 🚹 **Pronouns:** He/Him  
 
-- **OS**: *Arch Linux* BTW
-- **Programing Languages**: Python, C, Lua
-- **Code Editor**: *Neovim* my beloved
-- **Libraries**: Numpy, OpenCV, Matplotlib
+---
 
-<p align="left">
+## 🚀 Tech & Tools I Use  
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=arch,linux,git,github,neovim,python,c,lua,rust,markdown,opencv" />
+    <img src="https://skillicons.dev/icons?i=nixos,linux,git,github,neovim,python,c,lua,rust,markdown,opencv" />
   </a>
 </p>
 
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootrim&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="rootrim" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&locale=en&theme=gruvbox" alt="rootrim" height="200" />
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootrim&layout=compact&theme=gruvbox&langs_count=8" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=gruvbox&hide=prs" height="200" />
+</p>
+
+---
+
+## 🎯 Featured Projects  
+
+![My Teacher's Word Guessing Project](https://github-readme-stats.vercel.app/api/pin/?username=rootrim&repo=UAV-Project&theme=gruvbox)](https://github.com/rootrim/sumeyyes-amazing-word-game)    
+
+---
+
+## 📈 GitHub Activity  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rootrim&theme=gruvbox)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rootrim&color=blue" />
 </p>
