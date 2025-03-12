@@ -34,12 +34,6 @@
 
 ---
 
-## 🎯 Featured Projects  
-
-[![My Teacher's Word Guessing Project](https://github-readme-stats.vercel.app/api/pin/?username=rootrim&repo=UAV-Project&theme=gruvbox)](https://github.com/rootrim/sumeyyes-amazing-word-game)    
-
----
-
 ## 📈 GitHub Activity  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rootrim&theme=gruvbox)
