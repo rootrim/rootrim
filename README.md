@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Muaz (aka Trim)! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7AB00&size=22&center=true&vCenter=true&lines=Developer;+Tech+Enthusiast;+UAV+Team+Member;+Linux+Lover+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7AB00&size=22&center=true&vCenter=true&lines=Developer;+Tech+Enthusiast;+UAV+Team+Member;+Linux+Enjoyer" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nixos,linux,git,github,neovim,python,c,lua,rust,markdown,opencv" />
+    <img src="https://skillicons.dev/icons?i=nix,linux,git,github,neovim,python,rust,C,markdown,opencv" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ## 🎯 Featured Projects  
 
-![My Teacher's Word Guessing Project](https://github-readme-stats.vercel.app/api/pin/?username=rootrim&repo=UAV-Project&theme=gruvbox)](https://github.com/rootrim/sumeyyes-amazing-word-game)    
+[![My Teacher's Word Guessing Project](https://github-readme-stats.vercel.app/api/pin/?username=rootrim&repo=UAV-Project&theme=gruvbox)](https://github.com/rootrim/sumeyyes-amazing-word-game)    
 
 ---
 
