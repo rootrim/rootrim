@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootrim&layout=compact&theme=gruvbox&langs_count=8" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=rootrim&show_icons=true&theme=gruvbox&hide=prs" height="200" />
 </p>
