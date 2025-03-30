@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Trim! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7AB00&size=22&center=true&vCenter=true&lines=Developer;+Tech+Enthusiast;+UAV+Team+Member;+Linux+Enjoyer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7AB00&size=22&center=true&vCenter=true&lines=Developer;+Tech+Enthusiast;+NixOS+User;+Linux+Enjoyer;+Open+Source" />
 </p>
 
 ---
