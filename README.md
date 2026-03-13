@@ -1,8 +1,4 @@
-# Hi
-
-I am Trim, and I want to be like those cracked programers.  
-But I lack of teammates and I have too much other projects  
-on school.  
+Gets gud at programming.
 
 <a href="https://github.com/rootrim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootrim&theme=gruvbox&hide=css,html,markdown&langs_count=3" />
